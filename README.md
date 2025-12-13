@@ -1,3 +1,61 @@
+<h1 align="center">🌦️ Hava Durumu Tabanlı Uçuş Başarı Tahmini</h1>
+<h2 align="center">Makine Öğrenmesi ile Karar Destek Sistemi</h2>
+
+<hr>
+
+<h2 align="center">🎯 Amaç</h2>
+
+<p align="center">
+Hava durumu parametrelerini kullanarak<br>
+uçuşun <strong>başarılı / başarısız</strong> olacağını tahmin etmek<br>
+ve <strong>karar destek</strong> amacıyla yorumlanabilir sonuçlar üretmek.
+</p>
+
+<hr>
+
+<h2 align="center">🛠 Kullanılan Teknolojiler</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Bayesian%20Network-Probabilistic%20Modeling-6A1B9A?style=for-the-badge">
+</p>
+
+<hr>
+
+<h2 align="center">📊 Kullanılan Girdi Parametreleri</h2>
+
+<p align="center">
+Rüzgar Hızı (km/sa) • Sıcaklık (°C) • Nem (%) • Yağmur Olasılığı (%)
+</p>
+
+<hr>
+
+<h2 align="center">🧠 Model Yaklaşımları</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <h3>🌲 Random Forest</h3>
+      <sub>
+        - Başarılı / Başarısız sınıflandırma<br>
+        - Yüksek doğruluk<br>
+        - Yeni günler üzerinde tahmin
+      </sub>
+    </td>
+    <td align="center">
+      <h3>📐 Bayesian Network</h3>
+      <sub>
+        - Olasılıksal yaklaşım<br>
+        - Koşullu başarı analizi<br>
+        - Yorumlanabilir karar desteği
+      </sub>
+    </td>
+  </tr>
+</table>
+
 <hr>
 
 <h2 align="center">📋 Örnek Model Çıktıları (Head)</h2>
@@ -72,4 +130,23 @@ Aşağıda, eğitilmiş modellerin yeni hava durumu verileri üzerindeki
 Tablolarda yer alan değerler, çıktı dosyalarının ilk satırlarını (head) temsil etmektedir.
 Sunum sırasında model davranışının daha net gözlemlenebilmesi amacıyla kullanılmıştır.
 </sub>
+</p>
+
+
+<h2 align="center">📌 Proje Notu</h2>
+
+<p align="center">
+Model çıktıları, <strong>sunum sırasında iki taraflı gözlem</strong> yapılabilmesi için<br>
+eğitim verisi ve yeni (365 günlük) veri üzerinde ayrı ayrı incelenmiştir.<br>
+Bazı veri alt kümeleri <strong>sunum kolaylığı</strong> amacıyla seçilmiştir.
+</p>
+
+<hr>
+
+<h2 align="center">🚀 Geliştirici</h2>
+
+<p align="center">
+<strong>İsmet Arslan</strong><br>
+Bilgisayar Mühendisliği Öğrencisi<br>
+Makine Öğrenmesi • Veri İşleme • Karar Destek Sistemleri
 </p>
