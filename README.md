@@ -7,7 +7,7 @@
 
 <p align="center">
 Lisans bitirme projesi olarak geliştirme aşamasına başlanan ve TÜBİTAK 2209-A Programı tarafından desteklenmeye hak kazanan<br>
-bu projede amaç hava durumu parametrelerini kullanarak uçuşun <strong>başarılı / başarısız</strong> durumuyla birlikte<br>
+bu projenin amacı; hava durumu parametrelerini kullanarak uçuşun <strong>başarılı / başarısız</strong> durumuyla birlikte<br>
 <strong>düşme bölgesini</strong> tahmin etmek ve <strong>karar destek</strong> amacıyla yorumlanabilir sonuçlar üretmektir.
 </p>
 
