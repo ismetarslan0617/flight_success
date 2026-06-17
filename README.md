@@ -28,7 +28,7 @@ bu projenin amacı; hava durumu parametrelerini kullanarak uçuşun <strong>baş
 <h2 align="center">📊 Kullanılan Girdi Parametreleri</h2>
 
 <p align="center">
-Rüzgar Hızı (km/sa) • Sıcaklık (°C) • Nem (%) • Yağmur Olasılığı (%)
+Openrocket (.ork) dosyası • Rüzgar Hızı (km/sa) • Sıcaklık (°C) • Nem (%) • Yağmur Olasılığı (%)
 </p>
 
 <hr>
