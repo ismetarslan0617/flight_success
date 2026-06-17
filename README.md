@@ -7,7 +7,7 @@
 
 <p align="center">
 Hava durumu parametrelerini kullanarak<br>
-uçuşun <strong>başarılı / başarısız</strong> olacağını tahmin etmek<br>
+uçuşun <strong>başarılı / başarısız</strong> durumuyla birlikte düşme bölgesini tahmin etmek<br>
 ve <strong>karar destek</strong> amacıyla yorumlanabilir sonuçlar üretmek.
 </p>
 
