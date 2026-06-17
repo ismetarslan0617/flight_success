@@ -1,4 +1,4 @@
-<h1 align="center">🌦️ MODEL ROKET UÇUŞLARI İÇİN DİJİTAL İKİZ YAKLAŞIMIYLA GELİŞTİRİLMİŞ DÜŞME BÖLGESİ TAHMİNİ VE ATIŞ ZAMANI/BÖLGESİ ÖNERİ SİSTEMİ</h1>
+<h1 align="center">MODEL ROKET UÇUŞLARI İÇİN DİJİTAL İKİZ YAKLAŞIMIYLA GELİŞTİRİLMİŞ DÜŞME BÖLGESİ TAHMİNİ VE ATIŞ ZAMANI/BÖLGESİ ÖNERİ SİSTEMİ</h1>
 <h2 align="center">“Klasik simülasyon araçlarının deterministik yapısına karşı, dijital ikiz yaklaşımlı akıllı tahminler...”</h2>
 
 <hr>
